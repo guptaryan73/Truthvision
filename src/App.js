@@ -39,7 +39,7 @@ export default function App() {
       </Routes>
 
       <div className='footer'>
-        <p>&copy; 2023 Deepfake Detection System</p>
+        <p>&copy; 2025 Deepfake Detection System</p>
       </div>
     </Router>
   );
